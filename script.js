@@ -93,3 +93,5 @@ Your new total is ${usernum}`);
 alert(`Thank you for playing, you played ${round} rounds and your final score was: 
         Computer: ${pcwins}
         You: ${userwins}`);
+
+        // this is a comment
